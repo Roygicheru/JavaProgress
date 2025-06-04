@@ -1,13 +1,10 @@
-// import JavaLists.JavaListsOne;
-import OOP.OopOne;
+import JavaSprint.JavaSprint;
 
 public class Main {
     public static void main(String[] args) {
-            OopOne OopOne = new OopOne();
-            OopOne.oopConcepts();
 
-//            JavaListsOne JavaListsOne = new JavaListsOne();
-//            JavaListsOne.arrayListExample();
-//            JavaListsOne.listExample();
+            JavaSprint JavaSprint = new JavaSprint();
+            JavaSprint.mainProject();
+
         }
 }
